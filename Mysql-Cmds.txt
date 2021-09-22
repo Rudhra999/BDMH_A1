@@ -1,0 +1,4 @@
+1) Select * From student_details where Gender Like 'F';
+2)  Select * From student_details where Gender Like 'M';
+3) Select RollNo from student_details where Name Like 'Ankit Jaat' and Gender='M';
+4) select distinct Name from student_details;
